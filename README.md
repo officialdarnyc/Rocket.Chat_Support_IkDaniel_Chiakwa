@@ -1,7 +1,7 @@
 # Rocket.Chat_Support_IkDaniel_Chiakwa
 Rocket.Chat API test results
 
-This repo contains the request/responses for each of the below operations. The API calls were done to my Rocket.Chat server.
+This repo contains the responses for each of the below operations. The API calls were done to my Rocket.Chat server.
 
 a. Create a new user via an API endpoint
 
