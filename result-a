@@ -1,0 +1,22 @@
+{
+"user":{
+"_id":"iCBC8vpks5wbzF7kE",
+"createdAt":"2020-12-30T23:30:20.394Z",
+"username":"danieluser",
+"emails":[
+{
+"address":"ikenna.c@darny-tech.tk",
+"verified":false
+}
+],
+"type":"user",
+"status":"offline",
+"active":true,
+"_updatedAt":"2020-12-30T23:30:20.593Z",
+"__rooms":["GENERAL"],
+"roles":["user"],
+"name":"Ik Daniel",
+"settings":{}
+},
+"success":true
+}
