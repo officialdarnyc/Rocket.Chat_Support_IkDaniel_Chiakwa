@@ -1,0 +1,25 @@
+{
+"room":{
+"_id":"GENERAL",
+"ts":"2020-12-30T12:14:23.909Z",
+"t":"c",
+"name":"general",
+"usernames":[],
+"msgs":9,
+"usersCount":5,
+"default":true,
+"_updatedAt":"2020-12-30T23:30:20.428Z",
+"lastMessage":{
+"_id":"icjxix68EQ5JywNqZ",
+"rid":"GENERAL",
+"msg":"hello",
+"ts":"2020-12-30T15:02:15.957Z",
+"u":{"_id":"jjSPRXeQf9mkS2Dq3","username":"joy.ojo","name":"Joy Ojo"},
+"_updatedAt":"2020-12-30T15:02:16.016Z",
+"mentions":[],
+"channels":[]
+},
+"lm":"2020-12-30T15:02:15.957Z"
+},
+"success":true
+}
